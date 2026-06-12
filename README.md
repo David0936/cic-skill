@@ -1,3 +1,5 @@
+> 🧬 **人物思维 Skill 系列** · 总目录 → [persona-skill](https://github.com/David0936/persona-skill) · 同系列:[关娜西CIC](https://github.com/David0936/cic-skill) / [嗯哼](https://github.com/David0936/enheng-skill) / [不答哥](https://github.com/David0936/budage-skill)
+
 # CC · 关娜西cic Perspective Skill
 
 > 「明明可以靠脸，偏偏要靠才华。」
